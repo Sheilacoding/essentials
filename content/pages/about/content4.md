@@ -7,5 +7,5 @@ align: 'right'
 button: 'Contact Us'
 buttonLink: 'contact'
 ---
-Vision Essential is your one-stop shop for your eye care 
+Nbiotek is your one-stop shop for your Laboratory services 
 

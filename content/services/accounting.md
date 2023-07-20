@@ -1,24 +1,23 @@
 ---
-title: 'Eye Health Checkups'
+title: 'Medical Research'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/eye-checkup-icon2.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Eye Health Checkups'
-heroSubHeading: 'We offer general eye health check-ups on daily based.'
-heroBackground: 'services/eye-checkup.jpg'
+heroHeading: 'Medical Research'
+heroSubHeading: 'We offer Medical Research for your research projects of any kind.'
+heroBackground: 'images/nbiotek-medresearch.jpg'
 ---
 
 
-We offer general eye health check up for our clients.
+At Nbiotek we offer Medical Research for all your medical research project.
+
+
+At Nbiotek we offer Medical Research for all your medical research project.
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
+crimen habet Priamum nec.Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
 male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 

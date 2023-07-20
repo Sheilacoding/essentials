@@ -1,14 +1,14 @@
 ---
-title: 'Eye Examination'
+title: 'Training'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/eye-examination-icon.png'
 featured: true
 draft: false
-heroHeading: 'Eye Examination'
-heroSubHeading: 'Do you require an  eye test for your driving License etc? We are just a stone throw away!'
-heroBackground: 'services/eye-examination2.jpg'
+heroHeading: 'Training'
+heroSubHeading: ''
+heroBackground: 'images/training2.jpg'
 ---
-At Vision Essentials, we provide eye test for your driving license, medical examinations etc.
+At Nbiotek, we provide training of all kinds to our clients.
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae

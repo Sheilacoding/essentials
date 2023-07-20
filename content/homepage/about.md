@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
- Our vision is your vision!
+ Our vision is to provide you with reliable results!

@@ -1,19 +1,14 @@
 ---
-title: 'Laser Eye Correction'
+title: 'Medical Products'
 date: 2018-11-28T15:15:26+10:00
-icon: 'services/laser-eyes-icon.png'
+icon: 'services/service-icon-1.png'
 featured: true
 draft: false
-heroHeading: 'Laser Eye Correction'
-heroSubHeading: 'We have got you covered with your Laser Eye Correction.'
-heroBackground: 'services/laser-eyes2.jpg'
+heroHeading: 'Medical Products'
+heroSubHeading: ''
+heroBackground: 'images/medprod4.jpg'
 ---
-We provide Laser Eye Correction services
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+We supply all kinds of Medical products that you need. 
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas

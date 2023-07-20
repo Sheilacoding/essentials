@@ -6,4 +6,4 @@ button: 'Blog & Articles'
 buttonLink: 'work'
 ---
 
-Read the latest articles about your eye and demystify some myths about the eye.
+Read the latest articles about our services

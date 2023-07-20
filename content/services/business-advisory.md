@@ -1,15 +1,15 @@
 ---
-title: 'Contact Lens Service'
+title: 'Medical Test'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/contact-lens-icon1.png'
 featured: true
 draft: false
-heroHeading: 'Contact Lens Services'
-heroSubHeading: 'Contact Lens for your eyes.'
-heroBackground: 'services/contact-lens2.jpg'
+heroHeading: 'Medical Test'
+heroSubHeading: ''
+heroBackground: 'images/medtest1.jpg'
 ---
 
-We provide state of the art contact lenses services for our cherish customers
+We provide state of the art medical test
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
